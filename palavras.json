@@ -376,7 +376,7 @@
         { "palavra": "papagaio", "palavra_filtro": "papagaio" },
         { "palavra": "cacatua", "palavra_filtro": "cacatua" },
         { "palavra": "coruja-buraqueira", "palavra_filtro": "coruja buraqueira" },
-        { "palavra": "jabuti", "palavra_filtro": "jabuti" },
+        { "palavra": "jabuti", "palavra_filtro": "jabuti" }
       ]
     }
   }
